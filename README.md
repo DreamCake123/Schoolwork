@@ -1,4 +1,4 @@
-Authored by Cake
+*Authored by Cake*
 Jakarta EE boilerplate made to hosted by Glassfish, for module ITP4511
 
 # How to Run the Jakarta Application with GlassFish
